@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abilalozcan
-- 👀 I’m interested in autonomous systems, GNC, and Modeling
+- 👀 I’m interested in Autonomous Systems, GNC, and Modeling of Physical Systems such as aircraft, satellite, ship etc.
 - 🌱 I’m currently learning Model-Based Reinforcement Learning via MATLAB
 - ✍️ I’m fully professional in MATLAB and its products.
 - 📫 How to reach me ... https://www.linkedin.com/in/abilalozcan/
